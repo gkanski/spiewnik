@@ -53,4 +53,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://spiewnik.kanski.name"
+    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
