@@ -3,7 +3,7 @@ title: My Site
 toc: false
 ---
 
-HELLO This is the landing page. 
+Hej This is the landing page. 
 
 ## Explore
 
