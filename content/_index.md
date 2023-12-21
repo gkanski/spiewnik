@@ -1,15 +1,13 @@
 ---
-title: My Site
+title: Śpiewaj i Graj!
 toc: false
 ---
 
-Hej This is the landing page. 
-
-## Explore
+## Piosenki
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="polskie" title="Polskie" icon="music-note" >}}
+  {{< card link="zagraniczne" title="Zagraniczne" icon="music-note" >}}
 {{< /cards >}}
 
 ## Documentation

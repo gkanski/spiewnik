@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: Śpiewnik
+title: 🎧Śpiewnik
 
 # import hextra as module
 module:
@@ -41,6 +41,7 @@ menu:
       url: "https://twitter.com/"
       params:
         icon: x-twitter
+
 
 params:
   navbar:
