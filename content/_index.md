@@ -1,5 +1,5 @@
 ---
-title: Śpiewaj i Graj!
+title: Śpiewamy i Gramy
 toc: false
 ---
 

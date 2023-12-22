@@ -1,6 +1,8 @@
 ---
-title: About
+title: O mnie
 type: about
+sidebar:
+    exclude: true
 ---
 
-This is the about page.
+Site built by Greg.
