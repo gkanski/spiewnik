@@ -18,7 +18,7 @@ A niedopity rum
 Rozgrzeje jeszcze krew.
 ```
 
-> F G F G F G A A# H
+> F G (3x) A A# H
 
 ```
 Choć mało rozumiem
@@ -50,7 +50,7 @@ A tego czego mało
 Nie będzie wcale mniej...
 ```
 
-> F G F G F G A A# H
+> F G (3x) A A# H
 
 ```
 Choć mało rozumiem

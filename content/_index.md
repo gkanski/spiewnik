@@ -3,7 +3,7 @@ title: Śpiewaj i Graj!
 toc: false
 ---
 
-## Piosenki
+<h3>Piosenki</h3>
 
 {{< cards >}}
   {{< card link="polskie" title="Polskie" icon="music-note" >}}

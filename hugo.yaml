@@ -18,40 +18,37 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Polskie
+      pageRef: /polskie
       weight: 1
-    - name: About
-      pageRef: /about
+    - name: Zagraniczne
+      pageRef: /zagraniczne
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
-      weight: 3
     - name: Search
       weight: 4
       params:
         type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
-      params:
-        icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
-
 
 params:
+  description: Śpiewnik piosenek z akordami na gitarę
+
   navbar:
     displayTitle: true
     displayLogo: false
 
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: normal
+
+  theme:
+    # light | dark | system
+    default: dark
+    displayToggle: true
+
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    base: "https://github.com/gkanski/spiewnik/edit/main/content"
