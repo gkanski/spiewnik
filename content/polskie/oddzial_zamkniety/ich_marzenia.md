@@ -12,7 +12,8 @@ Kiedy spalą już do reszty śmieci
 ```
 
 ```
-Poczujesz, poczujesz, poczujesz, Jak dużo dzieli cię,
+Poczujesz, poczujesz, poczujesz,
+Jak dużo dzieli cię,
 Od innych, od innych, od innych
 ```
 
@@ -24,14 +25,16 @@ Jak to było przed początkiem końca
 ```
 
 ```
-Poczujesz, poczujesz, poczujesz, Jak dużo dzieli cię,
+Poczujesz, poczujesz, poczujesz,
+Jak dużo dzieli cię,
 Od innych, od innych, od innych
 ```
 
 > A E D... E
 
 ```
-Poczujesz, poczujesz, poczujesz, Jak dużo dzieli cię,
+Poczujesz, poczujesz, poczujesz,
+Jak dużo dzieli cię,
 Od innych, od innych, od innych
 ```
 
@@ -47,14 +50,16 @@ Kiedy spalą już do reszty śmieci
 ```
 
 ```
-Poczujesz, poczujesz, poczujesz, Jak dużo dzieli cię,
+Poczujesz, poczujesz, poczujesz,
+Jak dużo dzieli cię,
 Od innych, od innych, od innych
 ```
 
 > A E D... E
 
 ```
-Poczujesz, poczujesz, poczujesz, Jak dużo dzieli cię,
+Poczujesz, poczujesz, poczujesz,
+Jak dużo dzieli cię,
 Od innych, od innych, od innych
 ```
 
