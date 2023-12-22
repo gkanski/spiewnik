@@ -4,5 +4,5 @@ cascade:
   type: docs
   toc: false
   sidebar:
-    open: true
+    open: false
 ---
