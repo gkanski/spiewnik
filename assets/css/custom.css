@@ -1,0 +1,7 @@
+.music {
+  margin-top: 25px;
+}
+
+.music > p {
+  white-space: pre-line;
+}
