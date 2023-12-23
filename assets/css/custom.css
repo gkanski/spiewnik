@@ -3,5 +3,8 @@
 }
 
 .music > p {
+  margin-top: 20px;
   white-space: pre-line;
+  line-height: 150%;
+  font-size: smaller;
 }
