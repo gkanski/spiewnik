@@ -7,7 +7,7 @@ title: Na zawsze i na wieczność
 > a G F a
 
 Był chyba maj, park na Grochowie
-W słoneczny dzień Zobaczyłem Cię
+W słoneczny dzień zobaczyłem Cię
 
 Tańczyłaś boso, byłaś jak natchniona
 A po chwili zaczął padać deszcz
