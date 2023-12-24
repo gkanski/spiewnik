@@ -26,15 +26,11 @@ Tyle samotnych dróg musiałem przejść bez Ciebie
 
 Tyle samotnych dróg musiałem przejść by móc
 
-> N.C. - a G F
+> a G F a
 
 Odnaleźć Ciebie tu
 
-> a
-
 I wtedy padał deszcz
-
-> a G F a
 
 > a G F a
 
@@ -60,15 +56,12 @@ Tyle samotnych dróg musiałem przejść bez Ciebie
 
 Tyle samotnych dróg musiałem przejść by móc
 
-> N.C. - a G F
+> a G F a
 
 Odnaleźć Ciebie tu
-
-> a a G F
-
 I wtedy padał deszcz
 
-> a
+> a G F a
 
 I wtedy padał deszcz
 
@@ -80,7 +73,7 @@ Tyle samotnych dróg musiałem przejść bez Ciebie
 
 Tyle samotnych dróg musiałem przejść by móc
 
-> N.C. - a
+> a
 
 Odnaleźć Ciebie tu
 

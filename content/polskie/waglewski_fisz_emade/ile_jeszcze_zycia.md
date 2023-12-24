@@ -9,14 +9,14 @@ title: Ile jeszcze życia?
 
 Tak chciałbym być
 Tym kim nie zdołałem
-Tak chciałbym i...
+Tak chciałbym tym...
 Dla Ciebie właśnie być
 
 > d G d A d
 
 Lecz ile żyć
 Jeszcze mi zostało?
-Ile mi jeszcze
+Ile jeszcze
 Zostało żyć?
 
 > d B C (2x)
@@ -24,7 +24,7 @@ Zostało żyć?
 I chciałbym też
 Tak to poukładać
 Powkręcać czy...
-Posklejać lub i zbić
+Posklejać lub zbić
 
 > d G d A d
 
