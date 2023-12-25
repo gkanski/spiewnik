@@ -1,5 +1,5 @@
 ---
-title: Śpiewamy i Gramy
+title: Śpiewamy i Gramy!
 toc: false
 ---
 
